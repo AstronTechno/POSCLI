@@ -1,0 +1,89 @@
+
+.btn-a-primary {
+    transition: 600ms;
+    border: solid #0368d3;
+    border-radius: 18px;
+    padding: 10px 16px 10px 16px;
+    text-decoration: none;
+    background: #0368d3;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.btn-a-primary:hover {
+    transition: 600ms;
+    border: solid #004691;
+    border-radius: 18px;
+    padding: 10px 16px 10px 16px;
+    text-decoration: none;
+    background: #004691;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+/* Btn Outlined perfect to look at button for link(a) */
+
+.btn-a-outlined {
+    transition: 600ms;
+    border: solid #0368d3;
+    border-radius: 18px;
+    padding: 10px 16px 10px 16px;
+    text-decoration: none;
+    color: #0368d3;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.btn-a-outlined:hover {
+    transition: 600ms;
+    cursor: pointer;
+    border: solid #0368d3;
+    background: #0368d3;
+    border-radius: 18px;
+    padding: 10px 16px 10px 16px;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.btn-a-outlined:target {
+    transition: 600ms;
+    cursor: pointer;
+    border: solid #0368d3;
+    background: #0368d3;
+    border-radius: 18px;
+    padding: 10px 16px 10px 16px;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+/* Sections -> Down Box*n */
+
+sections {
+    display: block;
+    padding: 28px 40px 0px 40px;
+}
+
+/*Down Box Section <- Sections*/
+
+.down-box {
+    padding: 1px 20px 35px 50px;
+    display: block;
+    background: #d3d3d374;
+    margin: 15px 0px 15px 0px;
+}
+
+.down-box h2 {
+    font-family: sans-serif;
+ }
+
+.down-box h2 span {
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0368d3;
+}
+
