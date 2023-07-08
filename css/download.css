@@ -1,0 +1,35 @@
+/*x32 x64*/
+
+.x32 {
+    margin-bottom: 38px;
+}
+
+.int {
+    margin-bottom: 38px;
+}
+
+
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* ---------------------------- Header ---------------------------- */
+
+header {
+    display: block;
+    padding-left: 20px;
+    border-bottom: solid #0368d3;
+    height: 70px;
+}
+
+header .title-primary{
+    color: #0368d3;
+    font-family: sans-serif;
+    line-height: 70px;
+    margin: 0px;
+}
+
+/* ---------------------------- Section ----------------------------- */
+
